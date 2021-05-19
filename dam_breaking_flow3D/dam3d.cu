@@ -33,8 +33,8 @@
 using namespace std;
 #define BLOCK_X 128
 
-string output_direc = "./dam";
-string filename = "dam-breaking";
+string output_direc = "./output";
+string filename = "dam-breaking3d";
 string logname;
 
 float TIME_ALL=1.6f;
